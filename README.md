@@ -1,8 +1,8 @@
 
 # Rotten Potatos
 
-Um site de crítica de filmes, baseado no Rotten TOmatoes e Letterborxd.
-Onde o usuário pode armazenar sua Watchlist, Filmes ja assistido e suas notas. 
+Um site de crítica de filmes, baseado no Rotten Tomatoes e Letterboxd.
+Onde o usuário pode armazenar sua Watchlist, Filmes ja assistidos e suas notas. 
 
 
 
