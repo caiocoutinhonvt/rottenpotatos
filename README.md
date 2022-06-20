@@ -18,10 +18,14 @@ Onde o usuário pode armazenar sua Watchlist, Filmes ja assistido e suas notas.
 - Testes unitários coverage de 95%
 
 
+## Funções
 
-
-
-
+- Watchlist (Filmes que a pessoa deseja assistir) 
+- Filmes ja assistidos 
+- Avaliações de filmes 5 Estrelas 
+- Comentario sobre o filme 
+- Lista de filmes 
+- Perfil 
 
 
 
